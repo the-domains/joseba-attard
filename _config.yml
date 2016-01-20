@@ -1,0 +1,28 @@
+name: Joseba Attard
+favicon: null
+layout_spectrum: 0.6047355583868921
+typography_spectrum: 0.2787077249959111
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.8862866135314107
+  lightness: 0.0035372567363083363
+  saturation: 0.6554315541870892
+  rhythmicContrast: 0.6007481603883207
+purpose: []
