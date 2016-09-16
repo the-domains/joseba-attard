@@ -1,20 +1,4 @@
-name: Joseba Attard
-favicon: null
-layout_spectrum: 0.36308
 typography_spectrum: 0.2787077249959111
-title: Joseba Attard - Creative Strategic Design
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ADD7F6'
@@ -26,4 +10,28 @@ color:
   lightness: 0.0035372567363083363
   saturation: 0.6554315541870892
   rhythmicContrast: 0.6007481603883207
+github: true
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.36308
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: Joseba Attard
+  email: info@josebaattard.com
+  url: www.josebaattard.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/edd70718-7afd-4a21-acc9-4d8cec091e9b.jpg
+name: Olabe
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b98d283-e645-4d71-874c-1264c0a3d792.png
+title: ikusi arte
 purpose: []
