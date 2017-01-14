@@ -42,4 +42,7 @@ content: []
 description: >-
   A project to convert a 400 yr old Basque farmhouse into a cultural hub for
   conferences, retreats, camps, workshops and events. 
-purpose: []
+purpose:
+  - type: external
+    url: 'http://www.facebook.com/olabeproject'
+    label: Follow the progress on Facebook
